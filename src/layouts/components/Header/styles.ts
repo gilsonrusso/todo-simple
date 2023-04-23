@@ -3,9 +3,13 @@ import styled from "styled-components";
 export const HeaderContainer = styled.header`
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 
-  height: 2.5rem;
+  height: 12.5rem;
+  width: 100%;
+  background: ${props => props.theme['gray-600']};
 
-  background: ${props => props.theme['gray-700']};
+  img {
+    width: 8.5rem;
+  }
 `
