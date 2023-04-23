@@ -1,24 +1,19 @@
 export const themeDefault = {
-  // primary: '#8257e6',
-  // secondary: 'gray',
 
-  white: '#FFFFFF',
+  'white': '#FFFFFF',
 
-  'gray-100': '#E1E1E6',
-  'gray-300': '#C4C4CC',
-  'gray-400': '#8D8D99',
-  'gray-500': '#7C7C8A',
-  'gray-600': '#323238',
-  'gray-700': '#29292E',
-  'gray-800': '#202024',
-  'gray-900': '#121214',
+  'gray-100': '#F2F2F2',
+  'gray-200': '#D9D9D9',
+  'gray-300': '#808080',
+  'gray-400': '#333333',
+  'gray-500': '#262626',
+  'gray-600': '#1A1A1A',
 
-  'green-300': '#00B37E',
-  'green-500': '#00875F',
-  'green-700': '#015F43',
+  'purple': '#8284FA',
+  ' purple-dark': '#5E60CE',
 
-  'red-500': '#AB222E',
-  'red-700': '#7A1921',
+  'blue': '#4EABDE',
+  'blue-dark': '#1E6F9F',
 
-  'yellow-500': '#FBA94C',
+  'danger': '#e25858'
 }
