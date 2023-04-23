@@ -8,6 +8,6 @@ interface ButtonProps {
 export function ButtonDefault({ text }: ButtonProps) {
   return <ButtonContainer>
     {text}
-    <PlusCircle size={32} />
+    <PlusCircle size={24} />
   </ButtonContainer>
 }
